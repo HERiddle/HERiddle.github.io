@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>July的博客</title><link>https://HERiddle.github.io</link><description>July的个人博客</description><copyright>July的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/HERiddle/my-icon/refs/heads/main/icon/Fang/icon/blog-pi.png</url><title>avatar</title><link>https://HERiddle.github.io</link></image><lastBuildDate>Sun, 01 Jun 2025 16:00:24 +0000</lastBuildDate><managingEditor>July的博客</managingEditor><ttl>60</ttl><webMaster>July的博客</webMaster><item><title>一些网站</title><link>https://HERiddle.github.io/post/yi-xie-wang-zhan.html</link><description>[文章编辑](https://github.com/HERiddle/HERiddle.github.io/issues)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>July的博客</title><link>https://HERiddle.github.io</link><description>July的个人博客</description><copyright>July的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/HERiddle/my-icon/refs/heads/main/icon/Fang/icon/blog-pi.png</url><title>avatar</title><link>https://HERiddle.github.io</link></image><lastBuildDate>Mon, 02 Jun 2025 16:37:45 +0000</lastBuildDate><managingEditor>July的博客</managingEditor><ttl>60</ttl><webMaster>July的博客</webMaster><item><title>bgm自动点格子</title><link>https://HERiddle.github.io/post/bgm-zi-dong-dian-ge-zi.html</link><description>webhooks
+http://ridass.hppro1.hpnu.cn/api/web_hook?s=z82hc170sx2g211jy6654562fd05jk5t
+
+json类型
+
+勾选
+播放，用户。</description><guid isPermaLink="true">https://HERiddle.github.io/post/bgm-zi-dong-dian-ge-zi.html</guid><pubDate>Mon, 02 Jun 2025 16:37:18 +0000</pubDate></item><item><title>一些网站</title><link>https://HERiddle.github.io/post/yi-xie-wang-zhan.html</link><description>[文章编辑](https://github.com/HERiddle/HERiddle.github.io/issues)
 
 [博客源码](https://github.com/Meekdai/Gmeek)
 
