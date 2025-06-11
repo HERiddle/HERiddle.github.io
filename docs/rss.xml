@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>July的博客</title><link>https://HERiddle.github.io</link><description>July的个人博客</description><copyright>July的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/HERiddle/my-icon/refs/heads/main/icon/Fang/icon/blog-pi.png</url><title>avatar</title><link>https://HERiddle.github.io</link></image><lastBuildDate>Mon, 02 Jun 2025 16:37:45 +0000</lastBuildDate><managingEditor>July的博客</managingEditor><ttl>60</ttl><webMaster>July的博客</webMaster><item><title>bgm自动点格子</title><link>https://HERiddle.github.io/post/bgm-zi-dong-dian-ge-zi.html</link><description>webhooks
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>July的博客</title><link>https://HERiddle.github.io</link><description>July的个人博客</description><copyright>July的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/HERiddle/my-icon/refs/heads/main/icon/Fang/icon/blog-pi.png</url><title>avatar</title><link>https://HERiddle.github.io</link></image><lastBuildDate>Wed, 11 Jun 2025 13:30:46 +0000</lastBuildDate><managingEditor>July的博客</managingEditor><ttl>60</ttl><webMaster>July的博客</webMaster><item><title>bgm自动点格子</title><link>https://HERiddle.github.io/post/bgm-zi-dong-dian-ge-zi.html</link><description>webhooks
 http://ridass.hppro1.hpnu.cn/api/web_hook?s=z82hc170sx2g211jy6654562fd05jk5t
 
 json类型
@@ -13,4 +13,12 @@ json类型
 
 [July网站导航](https://book.4849112.xyz/)
 
-[博客美化进阶玩法](https://blog.meekdai.com/tag.html#Gmeek)。</description><guid isPermaLink="true">https://HERiddle.github.io/post/yi-xie-wang-zhan.html</guid><pubDate>Sun, 01 Jun 2025 15:45:16 +0000</pubDate></item><item><title>Markdown 标题语法</title><link>https://HERiddle.github.io/post/Markdown%20-biao-ti-yu-fa.html</link><description>&gt;微信公众号排版工具。</description><guid isPermaLink="true">https://HERiddle.github.io/post/Markdown%20-biao-ti-yu-fa.html</guid><pubDate>Sun, 01 Jun 2025 15:36:17 +0000</pubDate></item></channel></rss>
+[短链生成器](https://ll.4849112.xyz)
+
+[博客美化进阶玩法](https://blog.meekdai.com/tag.html#Gmeek)
+
+
+
+
+
+[编辑本页](https://github.com/HERiddle/HERiddle.github.io/issues/7)。</description><guid isPermaLink="true">https://HERiddle.github.io/post/yi-xie-wang-zhan.html</guid><pubDate>Sun, 01 Jun 2025 15:45:16 +0000</pubDate></item><item><title>Markdown 标题语法</title><link>https://HERiddle.github.io/post/Markdown%20-biao-ti-yu-fa.html</link><description>&gt;微信公众号排版工具。</description><guid isPermaLink="true">https://HERiddle.github.io/post/Markdown%20-biao-ti-yu-fa.html</guid><pubDate>Sun, 01 Jun 2025 15:36:17 +0000</pubDate></item></channel></rss>
